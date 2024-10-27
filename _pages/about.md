@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a research assistant from [Shanghai Typhoon Institute](https://www.sti.org.cn/). My research interest includes climate variability and typhoon study.
 
-I am very fortunate to be advised by [Prof. Liu](https://people.ucas.ac.cn/~hailongliu) of Laoshan Lab(https://www.lsnl.cn/) and [Prof. Lin](https://people.ucas.ac.cn/~0020042) of Institute of Atmospheric Physics, Chinese Academy of Sciences(http://iap.cas.cn/). I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Liu](https://people.ucas.ac.cn/~hailongliu) of Laoshan Lab(https://www.lsnl.cn/) and [Prof. Lin](https://people.ucas.ac.cn/~0020042) of Institute of Atmospheric Physics, Chinese Academy of Sciences(http://iap.cas.cn/).
 
 You can find my CV at https://www.sti.org.cn/kyry/3154.html
 
